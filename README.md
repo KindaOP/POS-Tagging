@@ -1,4 +1,4 @@
-# POS-Tagging
+# POS Tagging
 Machine Learning task in Natural Language Processing (NLP) to classify part of speech of Tha words.
 
 ## Model
